@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on become a FullStack Web Developer
+- 📫 How to reach me: https://www.linkedin.com/in/ramosfonseca/
+- 🌱 I’m currently learning: HTML - CSS - JavaScript - React - Redux
+
 <!--
 **beidseitig/beidseitig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
