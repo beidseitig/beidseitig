@@ -24,8 +24,8 @@ I live in Itabaiana, a small town in Sergipe, Brazil. I'm currently studyng prog
 ### Programming languages, frameworks and databases:
 
 - Git
-- HTML
-- CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75" align="center" />
+- HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" align="center" />
+- CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" align="center" />
 - JavaScript ES6
 - Jest
 - React
