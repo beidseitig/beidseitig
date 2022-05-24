@@ -37,7 +37,7 @@ I live in Itabaiana, a small town in Sergipe, Brazil. I'm currently studyng prog
   
 - beidseitig@gmail.com
 - (79) 9.9822-9924
-- https://www.linkedin.com/in/ramosfonseca/"target="_blank
+- https://www.linkedin.com/in/ramosfonseca/
 
 
 [![Ramos's GitHub stats](https://github-readme-stats.vercel.app/api?username=beidseitig)](https://github.com/beidseitig/github-readme-stats)
