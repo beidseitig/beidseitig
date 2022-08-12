@@ -11,15 +11,13 @@
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://imgur.com/4SdB78W.gif" width="365px" />
+  <img align="right" alt="GIF" src="https://imgur.com/4SdB78W.gif" width="360px" />
 
-- 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
-- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
-- 🤔 Meus hobbies são mecânica de motos e jogos online;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.
-- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
+- 👨🏽‍💻 Estou estudando **Programação Back-End** para ser um desenvolvedor mais completo;
+- 🌱 Estou aprendendo **TypeScript** para adicionar essa linguagem ao meu repertório; 
+- 🤔 Meus hobbies são leitura e jogos eletrônicos;
+- 💼 Estou aprendendo a programar para ter mais conhecimento sobre tecnologia;
+- 📫 Segue meu email **beidseitig@gmail.com** para me encontrar.
 
 <br />
 <br />
