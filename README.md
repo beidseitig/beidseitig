@@ -7,7 +7,7 @@
 </div>
   
 ### Programming languages, frameworks and databases:
-<div align="center" style="display: inline_block"><br>
+<div align="center"><br>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" align="center" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" align="center" /> 
