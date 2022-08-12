@@ -7,7 +7,7 @@
 </div>
   
 ### Programming languages, frameworks and databases:
-<div align="center"><br>
+<div align="center" style="display: inline_block"><br>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" align="center" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" align="center" /> 
@@ -18,6 +18,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" align="center" />
   </div>
   <div>
+    * [![Next][Next.js]][Next-url]
+    * [![React][React.js]][React-url]
+    * [![Vue][Vue.js]][Vue-url]
+    * [![Angular][Angular.io]][Angular-url]
+    * [![Svelte][Svelte.dev]][Svelte-url]
+    * [![Laravel][Laravel.com]][Laravel-url]
+    * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+    * [![JQuery][JQuery.com]][JQuery-url]
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" align="center" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" align="center" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" align="center" />  
