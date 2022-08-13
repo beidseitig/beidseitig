@@ -6,9 +6,6 @@
   <p>beidseitig@gmail.com</p>
 </div>
 
-<br />
-<br />
-
 ### My personal interests:
 
   <img align="right" alt="GIF" src="https://imgur.com/4SdB78W.gif" width="280px" />
@@ -32,7 +29,7 @@
 </div> -->
   
 ### Programming languages, frameworks and databases:
-<div align="center" style="display: inline_block"><br>
+<div align="left" style="display: inline_block"><br>
   <p>
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" width="165" align="center" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100" align="center" /> 
