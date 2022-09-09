@@ -1,4 +1,4 @@
-## Hi there, I'm Ramos Fonseca, a Full Stack Developer Jr
+## Hi there, I'm Ramos Fonseca, a Full Stack Developer
 
 ### How to reach me: 
 <div>
