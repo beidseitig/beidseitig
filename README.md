@@ -6,19 +6,18 @@
   <p>beidseitig@gmail.com</p>
 </div>
 
-### My personal interests:
+<!--- ### My personal interests:
 
   <img align="right" alt="GIF" src="https://imgur.com/4SdB78W.gif" width="280px" />
 
-- 👨🏽‍💻 Estou estudando **Programação Back-End** para ser um desenvolvedor mais completo;
-- 🌱 Estou aprendendo **MongoDB** para adicionar essa tecnologia ao meu repertório; 
-- 🤔 Meus hobbies são leitura e jogos eletrônicos;
-- 💼 Estou aprendendo a programar para ter mais conhecimento sobre tecnologia;
+- 👨🏽‍💻 Tudo que envolve tecnologia e ferramentas que ajudam a facilitar a vida cotidiana;
+- 🌱 Conhecimentos ; 
+- 🤔 Meus hobbies são leitura e jogos eletrônicos
 - 📫 Segue meu email **beidseitig@gmail.com** para me encontrar.
 
 <br />
 <br />
-
+--->
 
 
 
