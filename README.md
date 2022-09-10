@@ -11,7 +11,7 @@
   <img align="right" alt="GIF" src="https://imgur.com/4SdB78W.gif" width="280px" />
 
 - 👨🏽‍💻 Estou estudando **Programação Back-End** para ser um desenvolvedor mais completo;
-- 🌱 Estou aprendendo **MongoDB** para adicionar essa linguagem ao meu repertório; 
+- 🌱 Estou aprendendo **MongoDB** para adicionar essa tecnologia ao meu repertório; 
 - 🤔 Meus hobbies são leitura e jogos eletrônicos;
 - 💼 Estou aprendendo a programar para ter mais conhecimento sobre tecnologia;
 - 📫 Segue meu email **beidseitig@gmail.com** para me encontrar.
