@@ -49,8 +49,6 @@
   
 </div>
 
-<br />
-
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=beidseitig&theme=radical&show_icons=true" alt="beidseitig" width="370" />
 </p>
