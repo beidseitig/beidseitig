@@ -54,11 +54,13 @@
 </div>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=beidseitig&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="beidseitig" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=beidseitig&theme=radical&show_icons=true" alt="beidseitig" width="370" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beidseitig)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beidseitig&layout=compact&theme=radical" width="310" />
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beidseitig&card_width=100px)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <br />
 <br />
 
